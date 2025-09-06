@@ -1,0 +1,14 @@
+{
+  "name": "mh-care-plan-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "openai": "^4.28.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
